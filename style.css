@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+body {
+    background-color: #d3d1d1;
+}
+
+
+
+/* MAIN */
+
+h1 {
+    font-size: 60px;
+    font-family: "Rubik 80s Fade", serif;
+    text-align: center;
+    color: rgb(73, 43, 0);
+    margin-bottom: 0px;
+}
+
+.moto {
+    font-size: 20px;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    text-align: center;
+    padding-top: 0px;
+}
