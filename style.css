@@ -10,17 +10,40 @@ body {
 
 /* MAIN */
 
+
 h1 {
     font-size: 60px;
     font-family: "Rubik 80s Fade", serif;
     text-align: center;
-    color: rgb(73, 43, 0);
+    color: black;
     margin-bottom: 0px;
+    
+    
+    
+    
 }
 
-.moto {
+h4 {
     font-size: 20px;
     font-family: "Edu AU VIC WA NT Hand", cursive;
     text-align: center;
     padding-top: 0px;
+    color: black;
+    border-bottom: 5px solid rgba(124, 97, 28, 0.605);
+}
+
+.info {
+    align-items: center;
+    margin-left: 200px;
+    /* margin-right: ; */
+    border-left: 2px solid black;
+    padding-left: 10px;
+    
+}
+
+.fact1 {
+    margin-right: 700px;
+    position: relative;
+    bottom: 56px;
+    
 }
