@@ -33,17 +33,22 @@ h4 {
 }
 
 .info {
+    display: flex;
     align-items: center;
-    margin-left: 200px;
+    margin-left: 30vh;
     /* margin-right: ; */
     border-left: 2px solid black;
     padding-left: 10px;
-    
+    justify-content: center;
 }
 
 .fact1 {
-    margin-right: 700px;
-    position: relative;
-    bottom: 56px;
-    
+    display: flex;
+    margin-right: 150vh;
+    justify-content: left;
+    margin-top: 0;
+}
+
+image {
+    width: 20px;
 }
